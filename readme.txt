@@ -6,6 +6,7 @@ Tested up to: 6.5.2
 Requires PHP: 5.6
 Stable tag: 0.1.0
 License: MIT
+License URI: https://github.com/wielgosz-info/wi-post-type-service/blob/main/LICENSE
 
 'Service' custom post type.
 
